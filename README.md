@@ -1,4 +1,5 @@
 # Keeping-Up-With-Kpop
+ https://twitter.com/KeepingUpKpop1
  This is an ai-powered app that posts autoamatic tweets about the latest news in K-pop!
 
     This was the first personal project I decided to work on from start to finish. At the time of writing, I am in my 6th week of college
